@@ -1,6 +1,6 @@
 # Ruby File Transfer Client Server
 
-A simple program to simulate how to transfer a file from client to server. This program is using Ruby Language.
+A simple program to simulate how to transfer a file from client to server. This program is using [Ruby Language](http://www.ruby-lang.org/en/).
 
 ## About
 
@@ -12,4 +12,4 @@ A simple program to simulate how to transfer a file from client to server. This 
 
 Network Programming Course
 
-[Information Technology and Computer Science](http://ptiik.ub.ac.id), [Brawijaya University](http://ub.ac.id). 2012
+[Information Technology and Computer Science Program](http://ptiik.ub.ac.id) - [Brawijaya University](http://ub.ac.id). 2012
